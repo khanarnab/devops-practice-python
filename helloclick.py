@@ -1,8 +1,7 @@
 import click
 
 # subtle bug that may burn you
-var=[]
-var
+#var=
 
 
 @click.command()
